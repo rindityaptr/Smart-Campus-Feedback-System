@@ -1,0 +1,201 @@
+feedback_id,NIM,feedback,sentimen,sentiment_score,Tanggal Feedback,Angkatan,Program Studi
+1,1101,Pelayanan administrasi sangat cepat dan membantu,Positif,1,3/11/2024,2021,Sistem Informasi
+2,1102,Dosen menjelaskan materi dengan jelas dan mudah dipahami,Positif,1,3/17/2024,2021,Teknik Mesin
+3,1103,Fasilitas perpustakaan lengkap dan nyaman,Positif,1,4/5/2024,2022,Sistem Informasi
+4,1104,WiFi kampus berjalan lancar selama perkuliahan,Positif,1,3/29/2024,2021,Teknik Elektro
+5,1105,Ruang kelas bersih dan nyaman digunakan,Positif,1,2/21/2024,2021,Teknik Elektro
+6,1106,Proses KRS berlangsung dengan mudah,Positif,1,3/16/2024,2023,Teknik Elektro
+7,1107,Petugas akademik ramah kepada mahasiswa,Positif,1,4/9/2024,2021,Sistem Informasi
+8,1108,Materi kuliah sesuai dengan kebutuhan industri,Positif,1,4/13/2024,2022,Sistem Informasi
+9,1109,Laboratorium memiliki peralatan yang memadai,Positif,1,3/24/2024,2023,Teknik Informatika
+10,1110,Informasi akademik disampaikan dengan jelas,Positif,1,3/15/2024,2024,Teknik Mesin
+11,1111,Jadwal kuliah tersusun dengan baik,Positif,1,4/2/2024,2022,Teknik Informatika
+12,1112,Aplikasi akademik sangat membantu proses belajar,Positif,1,2/28/2024,2022,Sistem Informasi
+13,1113,Kegiatan organisasi kampus sangat bermanfaat,Positif,1,3/25/2024,2024,Teknik Mesin
+14,1114,Area parkir cukup luas dan tertata,Positif,1,3/6/2024,2022,Teknik Mesin
+15,1115,Kampus menyediakan banyak kegiatan pengembangan diri,Positif,1,3/19/2024,2024,Teknik Informatika
+16,1116,Pelayanan perpustakaan sangat memuaskan,Positif,1,3/10/2024,2024,Teknik Mesin
+17,1117,Dosen responsif terhadap pertanyaan mahasiswa,Positif,1,4/14/2024,2022,Teknik Mesin
+18,1118,Proses pembayaran kuliah mudah dilakukan,Positif,1,3/31/2024,2021,Teknik Informatika
+19,1119,Fasilitas olahraga kampus cukup lengkap,Positif,1,4/4/2024,2021,Teknik Informatika
+20,1120,Lingkungan kampus nyaman untuk belajar,Positif,1,3/2/2024,2024,Teknik Informatika
+21,1121,Materi praktikum sangat membantu pemahaman,Positif,1,4/1/2024,2023,Sistem Informasi
+22,1122,Seminar kampus memberikan wawasan baru,Positif,1,3/20/2024,2024,Sistem Informasi
+23,1123,Petugas keamanan kampus bekerja dengan baik,Positif,1,4/6/2024,2024,Sistem Informasi
+24,1124,Fasilitas kelas mendukung kegiatan belajar,Positif,1,4/7/2024,2024,Sistem Informasi
+25,1125,Program magang kampus sangat membantu mahasiswa,Positif,1,3/23/2024,2021,Sistem Informasi
+26,1126,Komunikasi antara dosen dan mahasiswa berjalan baik,Positif,1,4/8/2024,2021,Sistem Informasi
+27,1127,Website kampus mudah digunakan,Positif,1,3/13/2024,2021,Teknik Elektro
+28,1128,Pelayanan bagian keuangan sangat baik,Positif,1,3/28/2024,2024,Teknik Elektro
+29,1129,Ruang diskusi mahasiswa tersedia dengan baik,Positif,1,3/27/2024,2023,Sistem Informasi
+30,1130,Proses pengajuan surat berlangsung cepat,Positif,1,2/26/2024,2021,Sistem Informasi
+31,1131,Pembelajaran berlangsung interaktif,Positif,1,3/22/2024,2022,Sistem Informasi
+32,1132,Laboratorium komputer berfungsi dengan baik,Positif,1,3/3/2024,2022,Teknik Informatika
+33,1133,Fasilitas kampus terus mengalami peningkatan,Positif,1,3/26/2024,2022,Teknik Informatika
+34,1134,Pengumuman akademik selalu tepat waktu,Positif,1,3/8/2024,2024,Teknik Informatika
+35,1135,Pelayanan pusat karier sangat membantu,Positif,1,4/10/2024,2022,Sistem Informasi
+36,1136,Ruang tunggu mahasiswa nyaman digunakan,Positif,1,3/12/2024,2024,Teknik Elektro
+37,1137,Materi pembelajaran mudah diakses secara online,Positif,1,3/5/2024,2022,Teknik Elektro
+38,1138,Program beasiswa disosialisasikan dengan baik,Positif,1,4/11/2024,2023,Teknik Elektro
+39,1139,Pelayanan kesehatan kampus memuaskan,Positif,1,3/21/2024,2024,Teknik Elektro
+40,1140,Pengalaman belajar di kampus sangat menyenangkan,Positif,1,3/14/2024,2022,Teknik Elektro
+41,1141,Dosen memberikan umpan balik yang bermanfaat,Positif,1,2/27/2024,2021,Sistem Informasi
+42,1142,Fasilitas ibadah kampus sangat baik,Positif,1,4/12/2024,2024,Ilmu Komputer
+43,1143,Staf kampus membantu menyelesaikan masalah mahasiswa,Positif,1,3/4/2024,2021,Sistem Informasi
+44,1144,Proses administrasi akademik cukup efisien,Positif,1,3/7/2024,2021,Teknik Informatika
+45,1145,Peralatan praktikum dalam kondisi baik,Positif,1,3/9/2024,2021,Teknik Komputer
+46,1146,Pelayanan kampus semakin modern,Positif,1,4/3/2024,2021,Teknik Komputer
+47,1147,Suasana belajar sangat kondusif,Positif,1,3/18/2024,2022,Teknik Informatika
+48,1148,Informasi kegiatan mahasiswa mudah diperoleh,Positif,1,3/30/2024,2022,Sistem Informasi
+49,1149,Pelayanan akademik sangat profesional,Positif,1,4/15/2024,2024,Teknik Komputer
+50,1150,Program pertukaran mahasiswa sangat menarik,Positif,1,3/17/2024,2024,Sistem Informasi
+51,1101,Workshop kampus menambah keterampilan mahasiswa,Positif,1,2/18/2024,2024,Sistem Informasi
+52,1102,Penggunaan teknologi pembelajaran sangat baik,Positif,1,3/12/2024,2022,Sistem Informasi
+53,1103,Fasilitas kampus mendukung kreativitas mahasiswa,Positif,1,4/7/2024,2024,Teknik Informatika
+54,1104,Petugas layanan selalu sigap membantu,Positif,1,5/2/2024,2021,Teknik Informatika
+55,1105,Pengelolaan jadwal kuliah sangat rapi,Positif,1,2/21/2024,2022,Sistem Informasi
+56,1106,Program mentoring mahasiswa sangat bermanfaat,Positif,1,3/29/2024,2024,Ilmu Komputer
+57,1107,Ruang kelas memiliki fasilitas yang lengkap,Positif,1,4/17/2024,2021,Teknik Informatika
+58,1108,Pelayanan administrasi online sangat memudahkan,Positif,1,3/3/2024,2024,Teknik Informatika
+59,1109,Hubungan antara mahasiswa dan dosen sangat baik,Positif,1,2/25/2024,2023,Teknik Informatika
+60,1110,Pengalaman kuliah di kampus ini sangat positif,Positif,1,4/11/2024,2024,Sistem Informasi
+61,1111,WiFi kampus sering bermasalah saat kuliah,Negatif,-1,5/13/2024,2023,Sistem Informasi
+62,1112,Pelayanan administrasi terlalu lambat,Negatif,-1,3/19/2024,2024,Sistem Informasi
+63,1113,Sistem KRS sering mengalami gangguan,Negatif,-1,5/5/2024,2024,Sistem Informasi
+64,1114,Ruang kelas terasa panas dan tidak nyaman,Negatif,-1,4/27/2024,2022,Sistem Informasi
+65,1115,Jadwal kuliah sering berubah mendadak,Negatif,-1,2/28/2024,2022,Sistem Informasi
+66,1116,Informasi akademik sering terlambat diberikan,Negatif,-1,3/23/2024,2023,Teknik Informatika
+67,1117,Petugas layanan kurang responsif,Negatif,-1,4/15/2024,2022,Teknik Informatika
+68,1118,Laboratorium membutuhkan perbaikan fasilitas,Negatif,-1,2/15/2024,2021,Teknik Informatika
+69,1119,Website kampus sering tidak bisa diakses,Negatif,-1,3/25/2024,2021,Sistem Informasi
+70,1120,Antrian administrasi terlalu panjang,Negatif,-1,5/7/2024,2023,Sistem Informasi
+71,1121,Kebersihan toilet kampus kurang terjaga,Negatif,-1,3/10/2024,2021,Sistem Informasi
+72,1122,Dosen sering terlambat masuk kelas,Negatif,-1,4/9/2024,2021,Teknik Informatika
+73,1123,Materi kuliah kurang terstruktur,Negatif,-1,5/15/2024,2024,Sistem Informasi
+74,1124,Area parkir tidak mencukupi kebutuhan mahasiswa,Negatif,-1,3/1/2024,2022,Teknik Informatika
+75,1125,Proses pengajuan surat terlalu lama,Negatif,-1,2/13/2024,2021,Teknik Informatika
+76,1126,Fasilitas kelas banyak yang rusak,Negatif,-1,3/31/2024,2021,Sistem Informasi
+77,1127,Komunikasi akademik kurang efektif,Negatif,-1,5/17/2024,2022,Sistem Informasi
+78,1128,Pelayanan bagian keuangan kurang memuaskan,Negatif,-1,2/19/2024,2021,Sistem Informasi
+79,1129,Ruang belajar kurang nyaman digunakan,Negatif,-1,4/12/2024,2021,Sistem Informasi
+80,1130,Peralatan laboratorium banyak yang tidak berfungsi,Negatif,-1,3/26/2024,2022,Sistem Informasi
+81,1131,Sistem akademik sering error,Negatif,-1,5/9/2024,2024,Sistem Informasi
+82,1132,Pengumuman penting sering terlambat,Negatif,-1,3/8/2024,2021,Sistem Informasi
+83,1133,Pelayanan perpustakaan kurang maksimal,Negatif,-1,2/23/2024,2022,Sistem Informasi
+84,1134,Koneksi internet tidak stabil,Negatif,-1,5/10/2024,2021,Sistem Informasi
+85,1135,Jadwal praktikum sering bentrok,Negatif,-1,4/5/2024,2021,Sistem Informasi
+86,1136,Dosen sulit dihubungi di luar kelas,Negatif,-1,3/14/2024,2024,Sistem Informasi
+87,1137,Beberapa fasilitas kampus kurang terawat,Negatif,-1,4/23/2024,2023,Sistem Informasi
+88,1138,Proses administrasi terlalu rumit,Negatif,-1,2/27/2024,2023,Sistem Informasi
+89,1139,Ketersediaan buku perpustakaan masih kurang,Negatif,-1,5/12/2024,2022,Sistem Informasi
+90,1140,Pelayanan kampus kurang ramah,Negatif,-1,3/11/2024,2023,Sistem Informasi
+91,1141,Ruang kelas terlalu sempit,Negatif,-1,4/24/2024,2022,Sistem Informasi
+92,1142,Sistem presensi sering mengalami masalah,Negatif,-1,2/22/2024,2023,Teknik Informatika
+93,1143,Informasi beasiswa kurang jelas,Negatif,-1,3/5/2024,2024,Teknik Informatika
+94,1144,Pelayanan kesehatan kampus kurang memadai,Negatif,-1,5/3/2024,2022,Teknik Informatika
+95,1145,Fasilitas olahraga membutuhkan perbaikan,Negatif,-1,3/16/2024,2023,Teknik Informatika
+96,1146,Suasana belajar sering terganggu kebisingan,Negatif,-1,2/26/2024,2024,Teknik Informatika
+97,1147,Pengelolaan parkir kurang baik,Negatif,-1,4/21/2024,2023,Teknik Informatika
+98,1148,Materi praktikum tidak sesuai harapan,Negatif,-1,5/14/2024,2021,Teknik Informatika
+99,1149,Website akademik berjalan lambat,Negatif,-1,3/27/2024,2021,Sistem Informasi
+100,1150,Petugas akademik sulit dihubungi,Negatif,-1,5/1/2024,2024,Sistem Informasi
+101,2101,Pelayanan administrasi tidak konsisten,Negatif,-1,3/15/2024,2021,Sistem Informasi
+102,2102,Beberapa dosen kurang interaktif saat mengajar,Negatif,-1,4/10/2024,2021,Sistem Informasi
+103,2103,Laboratorium komputer sering mengalami kendala,Negatif,-1,4/22/2024,2022,Sistem Informasi
+104,2104,Ruang diskusi mahasiswa terbatas,Negatif,-1,5/5/2024,2023,Sistem Informasi
+105,2105,Penggunaan aplikasi kampus membingungkan,Negatif,-1,5/14/2024,2022,Teknik Informatika
+106,2106,Pengelolaan jadwal kurang rapi,Negatif,-1,3/25/2024,2023,Teknik Informatika
+107,2107,Proses pembayaran sering mengalami kendala,Negatif,-1,2/18/2024,2021,Teknik Informatika
+108,2108,Kegiatan mahasiswa kurang didukung kampus,Negatif,-1,6/2/2024,2022,Teknik Informatika
+109,2109,Sarana belajar masih perlu ditingkatkan,Negatif,-1,4/5/2024,2023,Teknik Informatika
+110,2110,Pengalaman kuliah di kampus ini kurang memuaskan,Negatif,-1,4/29/2024,2023,Teknik Informatika
+111,2111,Respon terhadap keluhan mahasiswa terlalu lambat,Negatif,-1,5/18/2024,2022,Teknik Informatika
+112,2112,Fasilitas kampus tidak sesuai harapan,Negatif,-1,2/10/2024,2024,Sistem Informasi
+113,2113,Pelayanan akademik kurang profesional,Negatif,-1,3/11/2024,2023,Sistem Informasi
+114,2114,Peralatan praktikum sudah usang,Negatif,-1,4/19/2024,2021,Sistem Informasi
+115,2115,Ruang kelas kurang bersih,Negatif,-1,5/20/2024,2023,Sistem Informasi
+116,2116,Informasi akademik sering membingungkan,Negatif,-1,3/29/2024,2021,Sistem Informasi
+117,2117,Program magang kurang terorganisir,Negatif,-1,2/28/2024,2022,Sistem Informasi
+118,2118,Petugas layanan kurang komunikatif,Negatif,-1,5/11/2024,2023,Sistem Informasi
+119,2119,Fasilitas digital kampus masih terbatas,Negatif,-1,4/26/2024,2021,Sistem Informasi
+120,2120,Proses layanan mahasiswa terlalu lama,Negatif,-1,3/20/2024,2021,Sistem Informasi
+121,2121,Perkuliahan berlangsung sesuai jadwal,Netral,0,2/13/2024,2022,Sistem Informasi
+122,2122,Kampus memiliki beberapa gedung perkuliahan,Netral,0,3/14/2024,2023,Sistem Informasi
+123,2123,Mahasiswa mengikuti kegiatan akademik setiap semester,Netral,0,3/4/2024,2023,Sistem Informasi
+124,2124,Sistem akademik digunakan untuk pengisian KRS,Netral,0,2/22/2024,2022,Sistem Informasi
+125,2125,Perpustakaan tersedia untuk seluruh mahasiswa,Netral,0,4/16/2024,2023,Sistem Informasi
+126,2126,Terdapat laboratorium untuk kegiatan praktikum,Netral,0,5/2/2024,2022,Sistem Informasi
+127,2127,Kampus menyediakan area parkir,Netral,0,3/2/2024,2023,Sistem Informasi
+128,2128,Jadwal ujian diumumkan melalui sistem akademik,Netral,0,4/9/2024,2024,Sistem Informasi
+129,2129,Mahasiswa dapat mengakses materi secara online,Netral,0,5/9/2024,2023,Sistem Informasi
+130,2130,Terdapat organisasi mahasiswa di kampus,Netral,0,3/28/2024,2021,Sistem Informasi
+131,2131,Kampus mengadakan seminar secara berkala,Netral,0,5/6/2024,2021,Sistem Informasi
+132,2132,Setiap program studi memiliki kurikulum masing-masing,Netral,0,4/2/2024,2024,Sistem Informasi
+133,2133,Mahasiswa wajib mengikuti aturan akademik,Netral,0,2/19/2024,2023,Sistem Informasi
+134,2134,Kampus menyediakan layanan administrasi,Netral,0,5/17/2024,2021,Sistem Informasi
+135,2135,Tersedia fasilitas olahraga untuk mahasiswa,Netral,0,2/27/2024,2021,Sistem Informasi
+136,2136,Kegiatan praktikum dilakukan di laboratorium,Netral,0,4/24/2024,2023,Sistem Informasi
+137,2137,Mahasiswa dapat berkonsultasi dengan dosen pembimbing,Netral,0,5/13/2024,2022,Sistem Informasi
+138,2138,Kampus memiliki website resmi,Netral,0,3/10/2024,2023,Sistem Informasi
+139,2139,Proses pembayaran dilakukan setiap semester,Netral,0,5/16/2024,2022,Sistem Informasi
+140,2140,Terdapat layanan kesehatan di kampus,Netral,0,4/27/2024,2024,Sistem Informasi
+141,2141,Mahasiswa mengikuti kegiatan orientasi,Netral,0,5/15/2024,2024,Sistem Informasi
+142,2142,Kampus menyediakan ruang kelas untuk perkuliahan,Netral,0,3/7/2024,2021,Sistem Informasi
+143,2143,Informasi akademik tersedia melalui portal mahasiswa,Netral,0,5/1/2024,2021,Sistem Informasi
+144,2144,Terdapat berbagai unit kegiatan mahasiswa,Netral,0,2/20/2024,2021,Sistem Informasi
+145,2145,Kampus memiliki area kantin,Netral,0,5/19/2024,2022,Sistem Informasi
+146,2146,Mahasiswa mengikuti ujian tengah semester,Netral,0,4/14/2024,2021,Sistem Informasi
+147,2147,Terdapat program magang bagi mahasiswa,Netral,0,3/17/2024,2023,Sistem Informasi
+148,2148,Perkuliahan dilakukan secara luring dan daring,Netral,0,5/12/2024,2022,Sistem Informasi
+149,2149,Setiap semester terdapat proses pengisian KRS,Netral,0,3/3/2024,2024,Sistem Informasi
+150,2150,Mahasiswa menerima kartu hasil studi,Netral,0,5/8/2024,2022,Sistem Informasi
+151,1201,Beberapa mata kuliah memiliki praktikum,Netral,0,5/4/2024,2021,Sistem Informasi
+152,1202,Pengumuman kampus disampaikan melalui media resmi,Netral,0,3/22/2024,2023,Sistem Informasi
+153,1203,Mahasiswa dapat menggunakan fasilitas perpustakaan,Netral,0,6/10/2024,2023,Sistem Informasi
+154,1204,Terdapat jadwal konsultasi akademik,Netral,0,4/15/2024,2021,Sistem Informasi
+155,1205,Kampus menyelenggarakan wisuda setiap tahun,Netral,0,1/9/2024,2023,Sistem Informasi
+156,1206,Mahasiswa mengikuti kegiatan organisasi,Netral,0,2/12/2024,2022,Sistem Informasi
+157,1207,Perkuliahan dimulai pada awal semester,Netral,0,3/17/2024,2022,Sistem Informasi
+158,1208,Kampus memiliki beberapa program beasiswa,Netral,0,5/8/2024,2021,Sistem Informasi
+159,1209,Tersedia layanan teknologi informasi,Netral,0,3/25/2024,2023,Sistem Informasi
+160,1210,Mahasiswa menggunakan email kampus,Netral,0,4/19/2024,2024,Sistem Informasi
+161,1211,Ruang kelas digunakan untuk proses pembelajaran,Netral,0,6/2/2024,2022,Sistem Informasi
+162,1212,Mahasiswa mengikuti kegiatan penelitian,Netral,0,5/15/2024,2022,Sistem Informasi
+163,1213,Portal akademik digunakan setiap semester,Netral,0,3/28/2024,2022,Sistem Informasi
+164,1214,Beberapa kegiatan dilakukan secara hybrid,Netral,0,1/15/2024,2022,Sistem Informasi
+165,1215,Mahasiswa mengakses nilai melalui sistem akademik,Netral,0,6/5/2024,2024,Sistem Informasi
+166,1216,Fasilitas kampus digunakan oleh seluruh mahasiswa,Netral,0,5/29/2024,2021,Sistem Informasi
+167,1217,Setiap fakultas memiliki ruang administrasi,Netral,0,4/11/2024,2022,Sistem Informasi
+168,1218,Kampus memiliki kalender akademik,Netral,0,5/24/2024,2023,Sistem Informasi
+169,1219,Mahasiswa mengikuti kegiatan pengabdian masyarakat,Netral,0,3/30/2024,2024,Sistem Informasi
+170,1220,Program studi memiliki dosen pengampu masing-masing,Netral,0,6/6/2024,2022,Sistem Informasi
+171,1221,Laboratorium digunakan sesuai jadwal praktikum,Netral,0,4/27/2024,2023,Sistem Informasi
+172,1222,Mahasiswa dapat mengurus surat melalui bagian akademik,Netral,0,3/10/2024,2022,Sistem Informasi
+173,1223,Perkuliahan berlangsung selama satu semester,Netral,0,2/15/2024,2021,Sistem Informasi
+174,1224,Mahasiswa mengikuti berbagai kegiatan kampus,Netral,0,4/2/2024,2024,Sistem Informasi
+175,1225,Penggunaan sistem akademik diwajibkan bagi mahasiswa,Netral,0,5/27/2024,2021,Sistem Informasi
+176,1226,Jadwal kuliah tersedia di portal mahasiswa,Netral,0,2/19/2024,2024,Sistem Informasi
+177,1227,Setiap mahasiswa memiliki nomor induk mahasiswa,Netral,0,4/9/2024,2022,Sistem Informasi
+178,1228,Perpustakaan menyediakan layanan peminjaman buku,Netral,0,5/19/2024,2022,Sistem Informasi
+179,1229,Mahasiswa dapat mengikuti program pertukaran pelajar,Netral,0,3/21/2024,2024,Sistem Informasi
+180,1230,Evaluasi pembelajaran dilakukan setiap semester,Netral,0,5/21/2024,2023,Sistem Informasi
+181,1231,Pelayanan administrasi sangat cepat dan membantu.,Positif,1,4/17/2024,2023,Sistem Informasi
+182,1232,Dosen menjelaskan materi dengan jelas dan mudah dipahami.,Positif,1,5/23/2024,2022,Sistem Informasi
+183,1233,Fasilitas perpustakaan lengkap dan nyaman.,Positif,1,6/11/2024,2022,Sistem Informasi
+184,1234,WiFi kampus berjalan lancar selama perkuliahan.,Positif,1,5/31/2024,2021,Sistem Informasi
+185,1235,Ruang kelas bersih dan nyaman digunakan.,Positif,1,4/13/2024,2022,Sistem Informasi
+186,1236,Proses KRS berlangsung dengan mudah.,Positif,1,1/27/2024,2024,Sistem Informasi
+187,1237,Petugas akademik ramah kepada mahasiswa.,Positif,1,3/19/2024,2023,Sistem Informasi
+188,1238,Materi kuliah sesuai dengan kebutuhan industri.,Positif,1,4/22/2024,2023,Sistem Informasi
+189,1239,Laboratorium memiliki peralatan yang memadai.,Positif,1,5/18/2024,2021,Sistem Informasi
+190,1240,Informasi akademik disampaikan dengan jelas.,Positif,1,3/14/2024,2023,Sistem Informasi
+191,1241,Jadwal kuliah tersusun dengan baik.,Positif,1,6/13/2024,2023,Sistem Informasi
+192,1242,Aplikasi akademik sangat membantu proses belajar.,Positif,1,5/25/2024,2024,Sistem Informasi
+193,1243,Kegiatan organisasi kampus sangat bermanfaat.,Positif,1,2/23/2024,2023,Sistem Informasi
+194,1244,Area parkir cukup luas dan tertata.,Positif,1,6/7/2024,2021,Sistem Informasi
+195,1245,Kampus menyediakan banyak kegiatan pengembangan diri.,Positif,1,3/11/2024,2021,Sistem Informasi
+196,1246,Pelayanan perpustakaan sangat memuaskan.,Positif,1,4/18/2024,2023,Sistem Informasi
+197,1247,Dosen responsif terhadap pertanyaan mahasiswa.,Positif,1,3/29/2024,2022,Sistem Informasi
+198,1248,Proses pembayaran kuliah mudah dilakukan.,Positif,1,5/3/2024,2023,Sistem Informasi
+199,1249,Fasilitas olahraga kampus cukup lengkap.,Positif,1,6/1/2024,2021,Teknik Informatika
+200,1250,Lingkungan kampus nyaman untuk belajar.,Positif,1,5/14/2024,2021,Teknik Informatika
