@@ -500,13 +500,22 @@ stemmer = factory.create_stemmer()
 # =========================
 @st.cache_resource
 def load_model():
-    """Load model and TF-IDF vectorizer"""
     try:
-        model = pickle.load(open('model_nb.pkl', 'rb'))
-        tfidf = pickle.load(open('tfidf.pkl', 'rb'))
+        import os
+
+        st.write("Current Directory:", os.getcwd())
+        st.write("Files:", os.listdir())
+
+        with open("model_nb.pkl", "rb") as f:
+            model = pickle.load(f)
+
+        with open("tfidf.pkl", "rb") as f:
+            tfidf = pickle.load(f)
+
         return model, tfidf
-    except FileNotFoundError:
-        st.error("❌ Model file not found! Please train the model first.")
+
+    except Exception as e:
+        st.error(f"Error loading model: {e}")
         st.stop()
 
 @st.cache_data
