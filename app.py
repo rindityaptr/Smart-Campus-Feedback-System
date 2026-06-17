@@ -501,16 +501,10 @@ stemmer = factory.create_stemmer()
 @st.cache_resource
 def load_model():
     try:
-        import os
+        model = pickle.load(open("model_nb.pkl", "rb"))
+        tfidf = pickle.load(open("tfidf.pkl", "rb"))
 
-        st.write("Current Directory:", os.getcwd())
-        st.write("Files:", os.listdir())
-
-        with open("model_nb.pkl", "rb") as f:
-            model = pickle.load(f)
-
-        with open("tfidf.pkl", "rb") as f:
-            tfidf = pickle.load(f)
+        st.success("✅ Model berhasil dimuat")
 
         return model, tfidf
 
