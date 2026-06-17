@@ -501,16 +501,9 @@ stemmer = factory.create_stemmer()
 @st.cache_resource
 def load_model():
     try:
-        model = pickle.load(open("model_nb.pkl", "rb"))
-        tfidf = pickle.load(open("tfidf.pkl", "rb"))
-
-        st.success("✅ Model berhasil dimuat")
-
+        model = pickle.load(open('model_nb.pkl', 'rb'))
+        tfidf = pickle.load(open('tfidf.pkl', 'rb'))
         return model, tfidf
-
-    except Exception as e:
-        st.error(f"Error loading model: {e}")
-        st.stop()
 
 @st.cache_data
 def load_data():
