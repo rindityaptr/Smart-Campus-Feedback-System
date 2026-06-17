@@ -504,7 +504,7 @@ def load_model():
         model = pickle.load(open("model_nb.pkl", "rb"))
         tfidf = pickle.load(open("tfidf.pkl", "rb"))
 
-        st.success("✅ Model berhasil dimuat")
+        st.success()
 
         return model, tfidf
 
