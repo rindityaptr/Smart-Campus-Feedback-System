@@ -29,6 +29,58 @@ st.set_page_config(
 # =========================
 st.markdown("""
 <style>
+/* =========================
+   AUTO DARK / LIGHT MODE FIX
+========================= */
+
+/* LIGHT MODE DEFAULT */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #111111;
+    --text-muted: #666666;
+    --card-bg: #f8f9fa;
+    --info-bg: #eef3ff;
+}
+
+/* DARK MODE (Streamlit auto detect) */
+html[data-theme="dark"] {
+    --bg-color: #0e1117;
+    --text-color: #ffffff;
+    --text-muted: #b5b5b5;
+    --card-bg: #1a1c23;
+    --info-bg: #1f2a3a;
+}
+
+/* APPLY GLOBAL */
+.stApp {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* TEXT FIX */
+h1, h2, h3, h4, p, span, label {
+    color: var(--text-color) !important;
+}
+
+/* CARD FIX (biar metric & box ikut theme) */
+.metric-card,
+.feedback-card,
+.info-box,
+.stats-container {
+    background: var(--card-bg) !important;
+    color: var(--text-color) !important;
+}
+
+/* STREAMLIT DATAFRAME FIX */
+.stDataFrame, .stTable {
+    background: var(--card-bg) !important;
+    color: var(--text-color) !important;
+}
+
+/* SIDEBAR TEXT FIX */
+[data-testid="stSidebar"] * {
+    color: white !important;
+}
     /* Global Styles - Auto Theme */
     .stApp {
         background: var(--background-color);
